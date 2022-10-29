@@ -5,5 +5,4 @@ Tandai status sebagai telah dilihat
 ![contoh1](https://raw.githubusercontent.com/frmdeveloper/whatsapp-status-reader/main/IMG-20220808-WA0227.jpg)
 
 ___
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/frmdeveloper/whatsapp-status-reader)
-<br>deploy belum berfungsi
+sebenarnya ini gk guna sih
