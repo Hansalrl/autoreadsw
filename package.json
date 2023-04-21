@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "npm:baileys": "latest",
     "express": "latest",
     "qrcode": "latest",
     "qrcode-terminal": "^0.12.0"
